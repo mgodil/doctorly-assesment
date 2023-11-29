@@ -1,3 +1,5 @@
+using Doctorly.Application.Interfaces;
+using Doctorly.Application.Services;
 using Doctorly.Infrastracture;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,6 +14,10 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<DoctorlyDbContext>(opt => opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"),
      b => b.MigrationsAssembly("Doctorly.Infrastracture")));
+
+// Dependancy Injection
+builder.Services.AddScoped<IRepository, Repository>();
+builder.Services.AddScoped<IService, Service>();
 
 var app = builder.Build();
 
