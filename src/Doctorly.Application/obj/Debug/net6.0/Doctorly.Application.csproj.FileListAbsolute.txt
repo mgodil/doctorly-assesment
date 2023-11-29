@@ -1,0 +1,12 @@
+C:\development\doctorly-assesment\src\Doctorly.Application\bin\Debug\net6.0\Doctorly.Application.deps.json
+C:\development\doctorly-assesment\src\Doctorly.Application\bin\Debug\net6.0\Doctorly.Application.dll
+C:\development\doctorly-assesment\src\Doctorly.Application\bin\Debug\net6.0\Doctorly.Application.pdb
+C:\development\doctorly-assesment\src\Doctorly.Application\obj\Debug\net6.0\Doctorly.Application.csproj.AssemblyReference.cache
+C:\development\doctorly-assesment\src\Doctorly.Application\obj\Debug\net6.0\Doctorly.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\doctorly-assesment\src\Doctorly.Application\obj\Debug\net6.0\Doctorly.Application.AssemblyInfoInputs.cache
+C:\development\doctorly-assesment\src\Doctorly.Application\obj\Debug\net6.0\Doctorly.Application.AssemblyInfo.cs
+C:\development\doctorly-assesment\src\Doctorly.Application\obj\Debug\net6.0\Doctorly.Application.csproj.CoreCompileInputs.cache
+C:\development\doctorly-assesment\src\Doctorly.Application\obj\Debug\net6.0\Doctorly.Application.dll
+C:\development\doctorly-assesment\src\Doctorly.Application\obj\Debug\net6.0\refint\Doctorly.Application.dll
+C:\development\doctorly-assesment\src\Doctorly.Application\obj\Debug\net6.0\Doctorly.Application.pdb
+C:\development\doctorly-assesment\src\Doctorly.Application\obj\Debug\net6.0\ref\Doctorly.Application.dll

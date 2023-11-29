@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Doctorly.Domain/1.0.0": {
+        "runtime": {
+          "Doctorly.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Doctorly.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
